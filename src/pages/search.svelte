@@ -1,4 +1,6 @@
 <script lang="ts">
+  import SinglePokemon from "src/pages/SinglePokemon.svelte"
+
     let searchQuery = '';
     let pokemonData = null;
     let error = '';
@@ -74,7 +76,7 @@
     {#if pokemonData}
       <div class="pokemon-info">
         <h2>{pokemonData.name}</h2>
-        <img src={pokemonData.sprites.front_default} alt={pokemonData.name} />
+        <a href="pokemon/{pokemonData.name}"><img src={pokemonData.sprites.front_default} alt={pokemonData.name} /></a>
         <h2>{pokemonData.type}</h2>
         
       </div>

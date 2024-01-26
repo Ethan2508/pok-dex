@@ -1,6 +1,5 @@
 <script lang="ts">
   import { Router, Route } from "svelte-navigator"
-  import Articles from "src/pages/Articles.svelte"
   import Home from "./pages/Home.svelte"
   import Navbar from "./components/Navbar.svelte"
   import Pokemon from "./pages/Pokemon.svelte"

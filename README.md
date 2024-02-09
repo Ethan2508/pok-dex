@@ -1,3 +1,3 @@
 Nom du groupe : Maël Gilbert / Thomas Bonaldi / Ethan Harfi
 
-Nous avons choisi de recourir au framework Svelte car nous avons plus d'experience et plus de facilité à l'utiliser.
+Nous avons décidé d'opter pour le framework Svelte pour notre projet. Pourquoi ? Tout simplement parce que nous avons une expérience plus solide avec celui-ci. Nous le maîtrisons mieux et nous nous sentons plus à l'aise pour travailler avec. De plus, nous apprécions sa syntaxe et sa structure, qui correspondent davantage à notre manière de travailler. Enfin, nous avons remarqué que Svelte offre des performances supérieures dans certains cas d'utilisation, ce qui est un argument de poids pour notre projet. En résumé, notre choix de Svelte repose sur notre expérience, notre confort d'utilisation, ainsi que sur ses performances.
